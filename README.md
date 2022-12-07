@@ -1,4 +1,4 @@
-# Fira Code iScript
+# Fira Code iScript patched with filetype Glyphs
 
 A font mashup to be used in code editors, displaying a script typeface for the italic font style.
 

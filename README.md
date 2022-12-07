@@ -4,6 +4,8 @@ A font mashup to be used in code editors, displaying a script typeface for the i
 
 The Regular and Bold face styles are taken from [Fira Code](https://github.com/tonsky/FiraCode) and [Script12](https://www.myfontsfree.com/134618/script12pitchbt.htm).
 
+Font patched with [Nerd Font Glyphs](https://github.com/ryanoasis/nerd-fonts) using [Font Forge Patcher](https://github.com/ryanoasis/nerd-fonts#font-patcher)
+
 <h3 align="center">
   <img src="https://github.com/ryanoasis/vim-devicons/wiki/screenshots/v0.10.x/overall-screenshot.png" alt="vim-devicons overall screenshot" />
 </h3>

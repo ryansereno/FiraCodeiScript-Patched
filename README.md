@@ -6,6 +6,8 @@ The Regular and Bold face styles are taken from [Fira Code](https://github.com/t
 
 Font patched with [Nerd Font Glyphs](https://github.com/ryanoasis/nerd-fonts) using [Font Forge Patcher](https://github.com/ryanoasis/nerd-fonts#font-patcher)
 
+To use with Vim, use [Vim DevIcons Plugin](https://github.com/ryanoasis/vim-devicons)
+
 <h3 align="center">
   <img src="https://github.com/ryanoasis/vim-devicons/wiki/screenshots/v0.10.x/overall-screenshot.png" alt="vim-devicons overall screenshot" />
 </h3>

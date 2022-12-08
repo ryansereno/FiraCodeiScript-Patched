@@ -8,13 +8,16 @@ Font patched with [Nerd Font Glyphs](https://github.com/ryanoasis/nerd-fonts) us
 
 To use with Vim, use [Vim DevIcons Plugin](https://github.com/ryanoasis/vim-devicons)
 
-<h3 align="center">
-  <img src="https://github.com/ryanoasis/vim-devicons/wiki/screenshots/v0.10.x/overall-screenshot.png" alt="vim-devicons overall screenshot" />
-</h3>
+<div align="center">
+      <img src="images/FiraCodeiScript-screenshot.png" width="600">
+</br>
 
-![image](https://user-images.githubusercontent.com/7041191/30752845-8c8484ce-9f8b-11e7-9df1-1d171b8d5e66.png)
-![image](https://user-images.githubusercontent.com/7041191/30753423-41be3e06-9f8d-11e7-930d-9cfdb5b5ee60.png)
-![image](https://user-images.githubusercontent.com/7041191/30752894-b5ff4b4a-9f8b-11e7-9908-969829409d08.png)
+</br>
+    <img src="images/glyphs.png" width="300">
+
+</div>
+
+
 
 ## Install
 

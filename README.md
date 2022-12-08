@@ -23,4 +23,4 @@ To use with Vim, use [Vim DevIcons Plugin](https://github.com/ryanoasis/vim-devi
 
 Download or clone this repository and install the fonts on your system.
 
-In your editor of choice set the font to `Fira Code iScript`.  Also, ensure that the current theme and syntax highlighting utilize italic.
+In your editor of choice set the font to `Fira Code iScript Regular Nerd Font`.  Also, ensure that the current theme and syntax highlighting utilize italic.
